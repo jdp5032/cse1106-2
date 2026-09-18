@@ -1,4 +1,4 @@
-# CSE1106-2 README.md
+# CSE1106-2
 
 ## Description
 
